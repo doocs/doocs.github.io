@@ -11,12 +11,22 @@
 - [spider](https://github.com/doocs/spider)：记录爬虫相关知识点。
 
 ## How to join
-如果你热爱开源，欢迎加入 [Doocs](https://github.com/doocs) 组织。可以有以下两种方式：
 
-1. 直接在[此项目](https://github.com/doocs/intro)开 [issue](https://github.com/doocs/intro/issues/new)。
-2. 发送邮件到 [contact@yanglibn.info](mailto:contact@yanglibn.info)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
+“*If you want to go fast, go alone. If you want to go far, go together.* ”
 
-注意，加入之后，你暂时不会有项目的 write 权限。你可以 fork 任何一个项目到你的帐户下，对项目作出修改后，提交你的 PR，Doocs 维护者会进行 Review。如果你的提交很规范，不久之后，你就会被添加到项目的维护者列表中。
+参与开源项目，对于个人的成长是有很大帮助的，相信很多小伙伴都有体会。
+
+如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
+
+- 直接在[此项目](https://github.com/doocs/intro)的 [issue](https://github.com/doocs/intro/issues) 上交流。
+- 发送邮件到 [contact@yanglibn.info](mailto:contact@yanglibn.info)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
+
+加入之后，你可以在[这里](https://github.com/orgs/doocs/people)设置可见性，我们建议设置为 Public，直接对外界公开。
+
+**注意**，刚开始加入，你**暂时**不会有项目的直接 write 权限，因为我们不确定你的提交是否符合项目规范。
+
+你可以 fork 任何一个感兴趣的项目到你的个人 GitHub 帐户下，对项目作出修改后，提交你的 PR。Doocs 维护者会对你的提交内容进行 review。或者你最初的提交并不规范，这也没关系，改进之后，慢慢的，咱整个规范性就有了。当你的提交一直很符合项目的规范性，Doocs 维护者会将你添加到对应项目的 Collaborators 列表中，共同维护好项目。
+
 
 如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md)。
 

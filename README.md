@@ -18,6 +18,6 @@
 
 注意，加入之后，你暂时不会有项目的 write 权限。你可以 fork 任何一个项目到你的帐户下，对项目作出修改后，提交你的 PR，Doocs 维护者会进行 Review。如果你的提交很规范，不久之后，你就会被添加到项目的维护者列表中。
 
-如果你不熟悉 GitHub 操作流程，你可以参考[这篇文章](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md)。
+如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md)。
 
 Doocs 期待你的加入。

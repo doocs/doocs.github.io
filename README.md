@@ -1,33 +1,32 @@
 # Introduction
-你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。
+Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
 ## Projects
-目前 Doocs 有以下 5 个项目：
+Doocs now has the following five projects:
 
-- [advanced-java](https://github.com/doocs/advanced-java)：互联网 Java 工程师进阶知识完全扫盲。
-- [leetcode](https://github.com/doocs/leetcode)：LeetCode 在线刷题仓库。
-- [coding-interview](https://github.com/doocs/coding-interview)：代码面试题集，包括剑指 Offer、编程之美等。
-- [jvm](https://github.com/doocs/jvm)：Java 虚拟机底层原理知识总结。
-- [spider](https://github.com/doocs/spider)：记录爬虫相关知识点。
+- [advanced-java](https://github.com/doocs/advanced-java): A learning roadmap of advanced knowledge for Java engineers.
+- [leetcode](https://github.com/doocs/leetcode): An online programming platform where you can do a lot of exercises to enhance your skills and expand your knowledge.
+- [coding-interview](https://github.com/doocs/coding-interview): A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc.
+- [jvm](https://github.com/doocs/jvm): A summary of the underlying principles of Java Virtual Machine.
+- [spider](https://github.com/doocs/spider): A record of crawler-related knowledge points.
 
 ## How to join
+“ *If you want to go fast, go alone. If you want to go far, go together.* ”
 
-“*If you want to go fast, go alone. If you want to go far, go together.* ”
+I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-参与开源项目，对于个人的成长是有很大帮助的，相信很多小伙伴都有体会。
+- Communicate directly on the [issues](https://github.com/doocs/intro/issues) of this project.
+- Send an email to [contact@yanglibn.info](mailto:contact@yanglibn.info) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
-如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
+After joining us, you can set visibility [here](https://github.com/orgs/doocs/people). We also recommend setting it to Public.
 
-- 直接在[此项目](https://github.com/doocs/intro)的 [issue](https://github.com/doocs/intro/issues) 上交流。
-- 发送邮件到 [contact@yanglibn.info](mailto:contact@yanglibn.info)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
+**Note**: At the beginning, you will not have direct 'write' permission for the project at this time, because we are not sure that your submission meets the project specifications.
 
-加入之后，你可以在[这里](https://github.com/orgs/doocs/people)设置可见性，我们建议设置为 Public，直接对外界公开。
+However, you can fork any of the items of your interest to your personal GitHub account and make changes to the project. You can submit your PR once you have modified the code or document, and then the Doocs maintainer will review your submission. It's normal that your initial submission is not standardized, however, it would be improved after practice. When your submissions consistently meet the project standards, the Doocs maintainer will add you to the Collaborators list of corresponding projects to maintain them together with us.
 
-**注意**，刚开始加入，你**暂时**不会有项目的直接 write 权限，因为我们不确定你的提交是否符合项目规范。
+If you are not familiar with the GitHub operating process, you can refer to this [article](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md).
 
-你可以 fork 任何一个感兴趣的项目到你的个人 GitHub 帐户下，对项目作出修改后，提交你的 PR。Doocs 维护者会对你的提交内容进行 review。或许你最初的提交并不规范，这也没关系，改进之后，慢慢的，咱整个规范性就有了。当你的提交一直很符合项目的规范性，Doocs 维护者会将你添加到对应项目的 Collaborators 列表中，共同维护好项目。
+Doocs is looking forward to your joining.
 
-
-如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md)。
-
-Doocs 期待你的加入。
+## Documentation
+See the [中文文档](https://github.com/doocs/intro/wiki/%E4%BB%8B%E7%BB%8D) for Chinese README.

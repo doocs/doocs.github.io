@@ -4,8 +4,8 @@ Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source or
 ## Projects
 Doocs now has the following five projects:
 
-- [advanced-java](https://github.com/doocs/advanced-java): A learning roadmap of advanced knowledge for Java engineers.
-- [leetcode](https://github.com/doocs/leetcode): An online programming platform where you can do a lot of exercises to enhance your skills and expand your knowledge.
+- [advanced-java](https://github.com/doocs/advanced-java): A learning roadmap of advanced knowledge for Java developer.
+- [leetcode](https://github.com/doocs/leetcode): An online programming platform where you can do a lot of exercises to enhance your coding skills and expand your knowledge.
 - [coding-interview](https://github.com/doocs/coding-interview): A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc.
 - [jvm](https://github.com/doocs/jvm): A summary of the underlying principles of Java Virtual Machine.
 - [spider](https://github.com/doocs/spider): A record of crawler-related knowledge points.
@@ -16,7 +16,7 @@ Doocs now has the following five projects:
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
 - Communicate directly on the [issues](https://github.com/doocs/intro/issues) of this project.
-- Send an email to [contact@yanglibn.info](mailto:contact@yanglibn.info) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 After joining us, you can set visibility [here](https://github.com/orgs/doocs/people). We also recommend setting it to Public.
 
@@ -24,7 +24,7 @@ After joining us, you can set visibility [here](https://github.com/orgs/doocs/pe
 
 However, you can fork any of the items of your interest to your personal GitHub account and make changes to the project. You can submit your PR once you have modified the code or document, and then the Doocs maintainer will review your submission. It's normal that your initial submission is not standardized, however, it would be improved after practice. When your submissions consistently meet the project standards, the Doocs maintainer will add you to the Collaborators list of corresponding projects to maintain them together with us.
 
-If you are not familiar with the GitHub operating process, you can refer to this [article](https://github.com/doocs/leetcode/blob/master/.github/CONTRIBUTING.md).
+If you are not familiar with the GitHub operating process, you can refer to this [article](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 
 Doocs is looking forward to your joining.
 

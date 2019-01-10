@@ -28,5 +28,8 @@ If you are not familiar with the GitHub operating process, you can refer to this
 
 Doocs is looking forward to your joining.
 
+## Contributors
+See [CONTRIBUTORS](CONTRIBUTORS.md).
+
 ## Documentation
 See the [中文文档](https://github.com/doocs/intro/wiki/%E4%BB%8B%E7%BB%8D) for Chinese README.

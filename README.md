@@ -5,7 +5,7 @@ Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source or
 Doocs now has the following five projects:
 
 - [advanced-java](https://github.com/doocs/advanced-java): A learning roadmap of advanced knowledge for Java developers.
-- [leetcode](https://github.com/doocs/leetcode): An online programming platform where you can do a lot of exercises to enhance your coding skills and expand your knowledge.
+- [leetcode](https://github.com/doocs/leetcode): LeetCode solutions in any programming language.
 - [coding-interview](https://github.com/doocs/coding-interview): A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc.
 - [jvm](https://github.com/doocs/jvm): A summary of the underlying principles of Java Virtual Machine.
 - [spider](https://github.com/doocs/spider): A record of crawler-related knowledge points.

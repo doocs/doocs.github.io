@@ -35,3 +35,6 @@ See [CONTRIBUTORS](CONTRIBUTORS.md).
 
 ## Documentation
 See the [中文文档](https://github.com/doocs/intro/wiki/%E4%BB%8B%E7%BB%8D) for Chinese README.
+
+| <center> [<img src="images/qrcode_for_wechatgroup.jpg" width="70%"/>](https://github.com/doocs/intro/blob/master/images/qrcode_for_wechatgroup.jpg) </center> | <center> [<img src="images/qrcode_for_yanglbme.jpg" width="70%"/>](https://github.com/doocs/intro/blob/master/images/qrcode_for_yanglbme.jpg) </center> |
+|---|---|

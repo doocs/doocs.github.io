@@ -2,7 +2,7 @@
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
 ## Projects
-Doocs now has the following seven projects excluding [intro](https://github.com/doocs/intro):
+Doocs now has the following six projects excluding [intro](https://github.com/doocs/intro):
 
 - [advanced-java](https://github.com/doocs/advanced-java): A learning roadmap of advanced knowledge for Java developers.
 - [technical-books](https://github.com/doocs/technical-books): Awesome programming books list.
@@ -10,7 +10,6 @@ Doocs now has the following seven projects excluding [intro](https://github.com/
 - [coding-interview](https://github.com/doocs/coding-interview): A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc.
 - [jvm](https://github.com/doocs/jvm): A summary of the underlying principles of Java Virtual Machine.
 - [spider](https://github.com/doocs/spider): A record of crawler-related knowledge points.
-- [linux-shell](https://github.com/doocs/linux-shell): Topic about linux and shell.
 
 ## How to join
 “ *If you want to go fast, go alone. If you want to go far, go together.* ”
@@ -31,7 +30,9 @@ You can refer to this [article](https://github.com/firstcontributions/first-cont
 Doocs is looking forward to your joining.
 
 ## Contributors
-See [CONTRIBUTORS](CONTRIBUTORS.md).
+This project exists thanks to all the people who contribute. 
+
+<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## Documentation
 See the [中文文档](https://github.com/doocs/intro/wiki/%E4%BB%8B%E7%BB%8D) for Chinese README.

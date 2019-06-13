@@ -30,7 +30,7 @@ You can refer to this [article](https://github.com/firstcontributions/first-cont
 Doocs is looking forward to your joining.
 
 ## Contributors
-This project exists thanks to all the people who contribute. 
+This organization exists thanks to all the people who contribute. 
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 

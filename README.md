@@ -32,10 +32,7 @@ Doocs is looking forward to your joining.
 ## Contributors
 This organization exists thanks to all the people who contribute. 
 
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
+<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## Documentation
 See the [中文文档](https://github.com/doocs/intro/wiki/%E4%BB%8B%E7%BB%8D) for Chinese README.
-
-| <center> [<img src="images/qrcode_for_wechatgroup.jpg" width="70%"/>](https://github.com/doocs/intro/blob/master/images/qrcode_for_wechatgroup.jpg) </center> | <center> [<img src="images/qrcode_for_yanglbme.jpg" width="70%"/>](https://github.com/doocs/intro/blob/master/images/qrcode_for_yanglbme.jpg) </center> |
-|---|---|

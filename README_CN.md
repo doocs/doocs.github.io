@@ -42,4 +42,4 @@ Doocs 期待你的加入。
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## 其他语言文档
-英文文档请看 [README](README)。
+英文文档请看 [README](README.md)。

@@ -1,8 +1,12 @@
 # Introduction
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
+## Links
+- GitHub Page: https://doocs.github.io
+- Gitee Page: https://doocs.gitee.io
+
 ## Projects
-Doocs now has the following projects excluding [doocs.github.io](https://github.com/doocs/doocs.github.io):
+Doocs now has the following projects:
 
 | # | Project | Description |
 |---|---|---|
@@ -38,6 +42,3 @@ Doocs is looking forward to your joining.
 This organization exists thanks to all the people who contribute. 
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
-
-## Documentation
-See the [中文文档](README_CN.md) for Chinese README.

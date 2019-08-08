@@ -1,6 +1,10 @@
 # 介绍
 你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。
 
+## 链接
+- GitHub Page: https://doocs.github.io/#/README_CN
+- Gitee Page: https://doocs.github.io/#/README_CN
+
 ## 项目
 目前 Doocs 有以下多个项目：
 

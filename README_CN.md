@@ -1,4 +1,8 @@
 # 介绍
+[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
+[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/green)](https://github.com/doocs/doocs.github.io#how-to-join)
+
 你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。
 
 英文文档请看 [README](README.md)。
@@ -6,6 +10,13 @@
 ## 链接
 - GitHub Page: https://doocs.github.io/#/README_CN
 - Gitee Page: https://doocs.github.io/#/README_CN
+
+## 发起人
+[杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。
+
+- 微信： YLB0109
+- 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
+- 同性交友账号: https://github.com/yanglbme
 
 ## 项目
 目前 Doocs 有以下多个项目：

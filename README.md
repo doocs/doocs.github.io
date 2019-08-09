@@ -1,4 +1,10 @@
 # Introduction
+[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
+[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/green)](https://github.com/doocs/doocs.github.io#how-to-join)
+
+
+
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
 See the [中文文档](README_CN.md) for Chinese README.
@@ -6,6 +12,14 @@ See the [中文文档](README_CN.md) for Chinese README.
 ## Links
 - GitHub Page: https://doocs.github.io
 - Gitee Page: https://doocs.gitee.io
+
+## Owner
+[Yang Libin](https://github.com/yanglbme), a backend development engineer.
+
+- Wechat: YLB0109
+- Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
+- GitHub: https://github.com/yanglbme
+
 
 ## Projects
 Doocs now has the following projects:

@@ -19,9 +19,7 @@
     </ul>
     
   </nav>
-  <div id="app">
-    <div id="gitalk-container"></div>
-  </div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Doocs',
@@ -64,12 +62,11 @@
     const gitalk = new Gitalk({
       clientID: '88a228f7139b31216822',
       clientSecret: 'd2c7e7c11b91d2e0f3d7ed3ed1ab1b2c08ad5591',
-      repo: 'doocs/doocs.github.io',
-      owner: 'yanglbme',
+      repo: 'doocs.github.io',
+      owner: 'doocs',
       admin: ['yanglbme'],
       distractionFreeMode: false
     })
-    gitalk.render('gitalk-container')
   </script>
   
 </body>

@@ -1,9 +1,8 @@
 # Introduction
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
-[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/green)](https://github.com/doocs/doocs.github.io#how-to-join)
-
-
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
+[![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 

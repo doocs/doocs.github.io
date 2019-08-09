@@ -1,7 +1,7 @@
 # 介绍
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
-[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](https://github.com/doocs/doocs.github.io#how-to-join)
+[![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#如何加入)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
 你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。

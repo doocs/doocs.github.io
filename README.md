@@ -27,8 +27,8 @@ Doocs now has the following projects:
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-- Communicate directly on the [issues](https://github.com/doocs/https://github.com/doocs/doocs.github.io/issues) of this project.
-- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+- Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues) of this project.
+- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 

@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 </head>
@@ -18,11 +19,14 @@
     </ul>
     
   </nav>
-  <div id="app"></div>
+  <div id="app">
+    <div id="gitalk-container"></div>
+  </div>
   <script>
     window.$docsify = {
       name: 'Doocs',
       repo: 'doocs/doocs.github.io',
+      logo: '/images/favicon-32x32.png',
       auto2top: true,
       search: [
         '/'
@@ -54,5 +58,19 @@
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '88a228f7139b31216822',
+      clientSecret: 'd2c7e7c11b91d2e0f3d7ed3ed1ab1b2c08ad5591',
+      repo: 'doocs/doocs.github.io',
+      owner: 'yanglbme',
+      admin: ['yanglbme'],
+      distractionFreeMode: false
+    })
+    gitalk.render('gitalk-container')
+  </script>
+  
 </body>
 </html>

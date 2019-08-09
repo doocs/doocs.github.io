@@ -1,6 +1,8 @@
 # Introduction
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
+See the [中文文档](README_CN.md) for Chinese README.
+
 ## Links
 - GitHub Page: https://doocs.github.io
 - Gitee Page: https://doocs.gitee.io

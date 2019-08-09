@@ -32,7 +32,7 @@
 - 直接在[此项目](https://github.com/doocs/intro)的 [issue](https://github.com/doocs/intro/issues) 上交流。
 - 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
-加入之后，你可以在[这里](https://github.com/orgs/doocs/people)设置可见性，我们建议设置为 Public，直接对外界公开。
+默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接(https://github.com/orgs/doocs/people)处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。
 
 **注意**，刚开始加入，你**暂时**不会有项目的直接 write 权限，因为我们不确定你的提交是否符合项目规范。
 
@@ -46,6 +46,3 @@ Doocs 期待你的加入。
 感谢以下所有为此开源组织贡献的开发者朋友们。
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
-
-## 其他语言文档
-英文文档请看 [README](README.md)。

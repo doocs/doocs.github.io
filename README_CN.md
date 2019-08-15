@@ -58,3 +58,17 @@ Doocs 期待你的加入。
 感谢以下所有为此开源组织贡献的开发者朋友们。
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
+
+## 开源合作
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="width: 80px;">
+        <a href="https://github.com/521xueweihan/HelloGitHub">
+        <img src="https://avatars2.githubusercontent.com/u/46038309?s=200&v=4" style="max-width:100%;"><br>
+          <sub>HelloGitHub</sub>
+        </a><br>
+      </th>
+    </tr>
+  </thead>
+</table>

@@ -35,13 +35,13 @@
 
 ## 如何加入
 
-> *If you want to go fast, go alone. If you want to go far, go together.*
+> *要走得快，就一个人走；要走得远，就一起走。*
 
 参与开源项目，对于个人的成长是有很大帮助的，相信很多小伙伴都有体会。
 
 如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
 
-- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues) 上交流。
+- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
 - 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
 默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。

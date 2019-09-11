@@ -30,7 +30,7 @@ Doocs now has the following projects:
 | 3 | [jvm](https://github.com/doocs/jvm) | A summary of the underlying principles of Java Virtual Machine. |
 | 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language. |
 | 5 | [coding-interview](https://github.com/doocs/coding-interview) | A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc. |
-| 6 | [spider](https://github.com/doocs/spider) | A record of crawler-related knowledge points. |
+| 6 | [deep-learning](https://github.com/doocs/deep-learning) | Deep learning tutorial notes and code.  |
 | 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | Knowledge about data structures and algorithms. |
 | 8 | [awesome-python](https://github.com/doocs/awesome-python) | A collection of (mostly) technical things every pythoner should know. |
 

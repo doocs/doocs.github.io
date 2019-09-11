@@ -29,7 +29,7 @@
 | 3 | [jvm](https://github.com/doocs/jvm) | Java 虚拟机底层原理知识总结。 |
 | 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode 多语言题解及解析。 |
 | 5 | [coding-interview](https://github.com/doocs/coding-interview) | 代码面试题集，包括《剑指 Offer》、《编程之美》等。 |
-| 6 | [spider](https://github.com/doocs/spider) | 记录爬虫相关知识点。 |
+| 6 | [deep-learning](https://github.com/doocs/deep-learning) | 深度学习实践与相关知识总结。 |
 | 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | 学习数据结构与算法，夯实编程基础。 |
 | 8 | [awesome-python](https://github.com/doocs/awesome-python) | Pythoner 必须掌握的知识点。 |
 

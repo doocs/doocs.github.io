@@ -62,14 +62,16 @@ Doocs 期待你的加入。
 ## 联系我
 <table>
     <tr>
-      <td align="center" style="width: 120px;">
+      <td align="center" style="width: 160px;">
         <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 500px;">
+          <img src="./images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+          <sub>公众平台</sub>
         </a><br>
       </td>
-      <td align="center" style="width: 120px;">
+      <td align="center" style="width: 160px;">
         <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 500px;">
+          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+          <sub>个人微信</sub>
         </a><br>
       </td>
     </tr>
@@ -79,7 +81,7 @@ Doocs 期待你的加入。
 <table>
   <thead>
     <tr>
-      <th align="center" style="width: 120px;">
+      <th align="center" style="width: 160px;">
         <a href="https://github.com/521xueweihan/HelloGitHub">
         <img src="https://avatars2.githubusercontent.com/u/46038309?s=200&v=4" style="max-width:100%;"><br>
           <sub>HelloGitHub</sub>

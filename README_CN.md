@@ -24,7 +24,7 @@
 
 | # | 项目名称 | 项目描述 |
 |---|---|---|
-| 1 | [advanced-java](https://github.com/doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲。 |
+| 1 | [advanced-java](https://github.com/doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 |
 | 2 | [technical-books](https://github.com/doocs/technical-books) | 值得一看的技术书籍列表。 |
 | 3 | [jvm](https://github.com/doocs/jvm) | Java 虚拟机底层原理知识总结。 |
 | 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode 多语言题解及解析。 |
@@ -33,6 +33,7 @@
 | 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | 学习数据结构与算法，夯实编程基础。 |
 | 8 | [awesome-python](https://github.com/doocs/awesome-python) | Pythoner 必须掌握的知识点。 |
 | 9 | [md](https://github.com/doocs/md) | 一款高度简洁的微信 Markdown 编辑器。 |
+| 10 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 互联网常用组件框架源码分析。 |
 
 ## 如何加入
 
@@ -61,17 +62,19 @@ Doocs 期待你的加入。
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## 联系我
+GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
+
 <table>
     <tr>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
           <sub>公众平台</sub>
         </a><br>
       </td>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
           <sub>个人微信</sub>
         </a><br>
       </td>

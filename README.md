@@ -13,7 +13,7 @@ See the [中文文档](README_CN.md) for Chinese README.
 - Gitee Page: https://doocs.gitee.io
 
 ## Owner
-[Yang Libin](https://github.com/yanglbme), a backend development engineer.
+[Yang Libin](https://github.com/yanglbme), a backend developer.
 
 - Wechat: YLB0109
 - Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
@@ -25,7 +25,7 @@ Doocs now has the following projects:
 
 | # | Project | Description |
 |---|---|---|
-| 1 | [advanced-java](https://github.com/doocs/advanced-java) | A learning roadmap of advanced knowledge for Java developers. |
+| 1 | [advanced-java](https://github.com/doocs/advanced-java) | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc. |
 | 2 | [technical-books](https://github.com/doocs/technical-books) | Awesome programming books list. |
 | 3 | [jvm](https://github.com/doocs/jvm) | A summary of the underlying principles of Java Virtual Machine. |
 | 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language. |
@@ -34,6 +34,7 @@ Doocs now has the following projects:
 | 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | Knowledge about data structures and algorithms. |
 | 8 | [awesome-python](https://github.com/doocs/awesome-python) | A collection of (mostly) technical things every pythoner should know. |
 | 9 | [md](https://github.com/doocs/md) | An online wechat markdown editor. |
+| 10 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. |
 
 
 ## How to join
@@ -64,13 +65,13 @@ This organization exists thanks to all the people who contribute.
     <tr>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/doocs">
-          <img src="./images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
           <sub>Subscription</sub>
         </a><br>
       </td>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/yanglbme">
-          <img src="./images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
           <sub>Wechat</sub>
         </a><br>
       </td>

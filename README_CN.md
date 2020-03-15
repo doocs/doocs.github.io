@@ -8,9 +8,9 @@
 
 英文文档请看 [README](README.md)。
 
-## 链接
-- GitHub Page: https://doocs.github.io/#/README_CN
-- Gitee Page: https://doocs.github.io/#/README_CN
+## 站点
+- GitHub Pages: https://doocs.github.io/#/README_CN
+- Gitee Pages: https://doocs.github.io/#/README_CN
 
 ## 发起人
 [杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。

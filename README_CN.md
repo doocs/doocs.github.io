@@ -9,8 +9,9 @@
 英文文档请看 [README](README.md)。
 
 ## 站点
-- GitHub Pages: https://doocs.github.io/#/README_CN
+- Netlify: https://doocs.netlify.com/#/README_CN
 - Gitee Pages: https://doocs.github.io/#/README_CN
+- GitHub Pages: https://doocs.github.io/#/README_CN
 
 ## 发起人
 [杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。
@@ -27,7 +28,7 @@
 | 1 | [advanced-java](https://github.com/doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 |
 | 2 | [technical-books](https://github.com/doocs/technical-books) | 值得一看的技术书籍列表。 |
 | 3 | [jvm](https://github.com/doocs/jvm) | Java 虚拟机底层原理知识总结。 |
-| 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode 多语言题解及解析。 |
+| 4 | [leetcode](https://github.com/doocs/leetcode) | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。 |
 | 5 | [coding-interview](https://github.com/doocs/coding-interview) | 代码面试题集，包括《剑指 Offer》、《编程之美》等。 |
 | 6 | [deep-learning](https://github.com/doocs/deep-learning) | 深度学习实践与相关知识总结。 |
 | 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | 学习数据结构与算法，夯实编程基础。 |

@@ -9,8 +9,9 @@ Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source or
 See the [中文文档](README_CN.md) for Chinese README.
 
 ## Sites
-- GitHub Pages: https://doocs.github.io
+- Netlify: https://doocs.netlify.com
 - Gitee Pages: https://doocs.gitee.io
+- GitHub Pages: https://doocs.github.io
 
 ## Owner
 [Yang Libin](https://github.com/yanglbme), a backend developer.

@@ -9,19 +9,21 @@ Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source or
 See the [中文文档](README_CN.md) for Chinese README.
 
 ## Sites
-- Netlify: https://doocs.netlify.com
-- Gitee Pages: https://doocs.gitee.io
-- GitHub Pages: https://doocs.github.io
+
+* Netlify: https://doocs.netlify.com
+* Gitee Pages: https://doocs.gitee.io
+* GitHub Pages: https://doocs.github.io
 
 ## Owner
+
 [Yang Libin](https://github.com/yanglbme), a backend developer.
 
-- Wechat: YLB0109
-- Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
-- GitHub: https://github.com/yanglbme
-
+* Wechat: YLB0109
+* Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
+* GitHub: https://github.com/yanglbme
 
 ## Projects
+
 Doocs now has the following projects:
 
 | # | Project | Description |
@@ -37,14 +39,14 @@ Doocs now has the following projects:
 | 9 | [md](https://github.com/doocs/md) | An online wechat markdown editor. |
 | 10 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. |
 
-
 ## How to join
+
 > *If you want to go fast, go alone. If you want to go far, go together.*
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-- Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
-- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+* Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
+* Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info? Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 
@@ -57,11 +59,13 @@ You can refer to this [article](https://github.com/firstcontributions/first-cont
 Doocs is looking forward to your joining.
 
 ## Contributors
+
 This organization exists thanks to all the people who contribute. 
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## Contact
+
 <table>
     <tr>
       <td align="center" style="width: 160px;">
@@ -77,18 +81,4 @@ This organization exists thanks to all the people who contribute.
         </a><br>
       </td>
     </tr>
-</table>
-
-## Nonprofit Cooperative
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 160px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub">
-        <img src="https://avatars2.githubusercontent.com/u/46038309?s=200&v=4" style="max-width:100%;"><br>
-          <sub>HelloGitHub</sub>
-        </a><br>
-      </th>
-    </tr>
-  </thead>
 </table>

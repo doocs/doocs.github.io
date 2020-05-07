@@ -9,18 +9,21 @@
 英文文档请看 [README](README.md)。
 
 ## 站点
-- Netlify: https://doocs.netlify.com/#/README_CN
-- Gitee Pages: https://doocs.github.io/#/README_CN
-- GitHub Pages: https://doocs.github.io/#/README_CN
+
+* Netlify: https://doocs.netlify.com/#/README_CN
+* Gitee Pages: https://doocs.github.io/#/README_CN
+* GitHub Pages: https://doocs.github.io/#/README_CN
 
 ## 发起人
+
 [杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。
 
-- 微信： YLB0109
-- 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
-- 同性交友账号: https://github.com/yanglbme
+* 微信： YLB0109
+* 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
+* 同性交友账号: https://github.com/yanglbme
 
 ## 项目
+
 目前 Doocs 有以下多个项目：
 
 | # | 项目名称 | 项目描述 |
@@ -44,8 +47,8 @@
 
 如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
 
-- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
-- 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
+* 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
+* 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info? Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
 默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。
 
@@ -58,11 +61,13 @@
 Doocs 期待你的加入。
 
 ## 贡献者列表
+
 感谢以下所有为此开源组织贡献的开发者朋友们。
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 
 ## 联系我
+
 GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
@@ -80,18 +85,4 @@ GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**
         </a><br>
       </td>
     </tr>
-</table>
-
-## 开源合作
-<table>
-  <thead>
-    <tr>
-      <th align="center" style="width: 160px;">
-        <a href="https://github.com/521xueweihan/HelloGitHub">
-        <img src="https://avatars2.githubusercontent.com/u/46038309?s=200&v=4" style="max-width:100%;"><br>
-          <sub>HelloGitHub</sub>
-        </a><br>
-      </th>
-    </tr>
-  </thead>
 </table>

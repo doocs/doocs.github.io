@@ -24,20 +24,18 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 ## Projects
 
-Doocs now has the following projects:
+Doocs now has the following hot projects:
 
-| # | Project | Description |
-|---|---|---|
-| 1 | [advanced-java](https://github.com/doocs/advanced-java) | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc. |
-| 2 | [technical-books](https://github.com/doocs/technical-books) | Awesome programming books list. |
-| 3 | [jvm](https://github.com/doocs/jvm) | A summary of the underlying principles of Java Virtual Machine. |
-| 4 | [leetcode](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language. |
-| 5 | [coding-interview](https://github.com/doocs/coding-interview) | A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc. |
-| 6 | [deep-learning](https://github.com/doocs/deep-learning) | Deep learning tutorial notes and code.  |
-| 7 | [data-structure-and-algorithm](https://github.com/doocs/data-structure-and-algorithm) | Knowledge about data structures and algorithms. |
-| 8 | [awesome-python](https://github.com/doocs/awesome-python) | A collection of (mostly) technical things every pythoner should know. |
-| 9 | [md](https://github.com/doocs/md) | An online wechat markdown editor. |
-| 10 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. |
+| # | Project | Description | Popularity |
+|---|---|---|---|
+| 1 | [advanced-java](https://github.com/doocs/advanced-java) | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc. | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java) |
+| 2 | [leetcode](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language. | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode) |
+| 3 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
+| 4 | [jvm](https://github.com/doocs/jvm) | A summary of the underlying principles of Java Virtual Machine. | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm) |
+| 5 | [coding-interview](https://github.com/doocs/coding-interview) | A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc. | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview) |
+| 6 | [md](https://github.com/doocs/md) | An online wechat markdown editor. | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md) |
+| 7 | [technical-books](https://github.com/doocs/technical-books) | Awesome programming books list. | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books) |
+
 
 ## How to join
 
@@ -46,7 +44,7 @@ Doocs now has the following projects:
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
 * Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
-* Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info? Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+* Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 

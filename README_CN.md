@@ -1,4 +1,5 @@
 # 介绍
+
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#如何加入)
@@ -10,42 +11,42 @@
 
 ## 站点
 
-* Netlify: https://doocs.netlify.com/#/README_CN
-* Gitee Pages: https://doocs.github.io/#/README_CN
-* GitHub Pages: https://doocs.github.io/#/README_CN
+- Netlify: https://doocs.netlify.com/#/README_CN
+- Gitee Pages: https://doocs.github.io/#/README_CN
+- GitHub Pages: https://doocs.github.io/#/README_CN
 
 ## 发起人
 
 [杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。
 
-* 微信： YLB0109
-* 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
-* 同性交友账号: https://github.com/yanglbme
+- 微信： YLB0109
+- 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
+- 同性交友账号: https://github.com/yanglbme
 
 ## 项目
 
 目前 Doocs 有以下多个热门项目：
 
-| # | 项目 | 描述 | 热度 |
-|---|---|---|---|
-| 1 | [advanced-java](https://github.com/doocs/advanced-java) | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java) |
-| 2 | [leetcode](https://github.com/doocs/leetcode) | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。 | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode) |
-| 3 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 互联网常用组件框架源码分析。 | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
-| 4 | [jvm](https://github.com/doocs/jvm) | Java 虚拟机底层原理知识总结。 | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm) |
-| 5 | [coding-interview](https://github.com/doocs/coding-interview) | 代码面试题集，包括《剑指 Offer》、《编程之美》等。 | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview) |
-| 6 | [md](https://github.com/doocs/md) | 一款高度简洁的微信 Markdown 编辑器。 | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md) |
-| 7 | [technical-books](https://github.com/doocs/technical-books) | 值得一看的技术书籍列表。 | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books) |
+| #   | 项目                                                              | 描述                                                                                             | 热度                                                                                                                            |
+| --- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [advanced-java](https://github.com/doocs/advanced-java)           | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。 | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java)           |
+| 2   | [leetcode](https://github.com/doocs/leetcode)                     | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。        | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode)                     |
+| 3   | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 互联网常用组件框架源码分析。                                                                     | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
+| 4   | [jvm](https://github.com/doocs/jvm)                               | Java 虚拟机底层原理知识总结。                                                                    | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm)                               |
+| 5   | [coding-interview](https://github.com/doocs/coding-interview)     | 代码面试题集，包括《剑指 Offer》、《编程之美》等。                                               | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview)     |
+| 6   | [md](https://github.com/doocs/md)                                 | 一款高度简洁的微信 Markdown 编辑器。                                                             | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md)                                 |
+| 7   | [technical-books](https://github.com/doocs/technical-books)       | 值得一看的技术书籍列表。                                                                         | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books)       |
 
 ## 如何加入
 
-> *要走得快，就一个人走；要走得远，就一起走。*
+> _要走得快，就一个人走；要走得远，就一起走。_
 
 参与开源项目，对于个人的成长是有很大帮助的，相信很多小伙伴都有体会。
 
 如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
 
-* 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
-* 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
+- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
+- 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
 默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。
 
@@ -65,7 +66,7 @@ Doocs 期待你的加入。
 
 ## 联系我
 
-GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
+GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs 开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
     <tr>

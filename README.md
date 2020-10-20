@@ -1,4 +1,5 @@
 # Introduction
+
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#how-to-join)
@@ -10,41 +11,40 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 ## Sites
 
-* Netlify: https://doocs.netlify.com
-* Gitee Pages: https://doocs.gitee.io
-* GitHub Pages: https://doocs.github.io
+- Netlify: https://doocs.netlify.com
+- Gitee Pages: https://doocs.gitee.io
+- GitHub Pages: https://doocs.github.io
 
 ## Owner
 
 [Yang Libin](https://github.com/yanglbme), a backend developer.
 
-* Wechat: YLB0109
-* Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
-* GitHub: https://github.com/yanglbme
+- Wechat: YLB0109
+- Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
+- GitHub: https://github.com/yanglbme
 
 ## Projects
 
 Doocs now has the following hot projects:
 
-| # | Project | Description | Popularity |
-|---|---|---|---|
-| 1 | [advanced-java](https://github.com/doocs/advanced-java) | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc. | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java) |
-| 2 | [leetcode](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language. | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode) |
-| 3 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components. | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
-| 4 | [jvm](https://github.com/doocs/jvm) | A summary of the underlying principles of Java Virtual Machine. | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm) |
-| 5 | [coding-interview](https://github.com/doocs/coding-interview) | A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc. | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview) |
-| 6 | [md](https://github.com/doocs/md) | An online wechat markdown editor. | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md) |
-| 7 | [technical-books](https://github.com/doocs/technical-books) | Awesome programming books list. | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books) |
-
+| #   | Project                                                           | Description                                                                                                                                                          | Popularity                                                                                                                      |
+| --- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [advanced-java](https://github.com/doocs/advanced-java)           | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc.             | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java)           |
+| 2   | [leetcode](https://github.com/doocs/leetcode)                     | LeetCode solutions in any programming language.                                                                                                                      | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode)                     |
+| 3   | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components.                                                                                                                   | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
+| 4   | [jvm](https://github.com/doocs/jvm)                               | A summary of the underlying principles of Java Virtual Machine.                                                                                                      | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm)                               |
+| 5   | [coding-interview](https://github.com/doocs/coding-interview)     | A collection of interview questions for programmers. The main contents include ‘Coding Interviews: Questions, Analysis and Solutions’, ‘Beauty of Programming’, etc. | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/coding-interview)     |
+| 6   | [md](https://github.com/doocs/md)                                 | An online wechat markdown editor.                                                                                                                                    | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md)                                 |
+| 7   | [technical-books](https://github.com/doocs/technical-books)       | Awesome programming books list.                                                                                                                                      | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books)       |
 
 ## How to join
 
-> *If you want to go fast, go alone. If you want to go far, go together.*
+> _If you want to go fast, go alone. If you want to go far, go together._
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-* Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
-* Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+- Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
+- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 
@@ -58,7 +58,7 @@ Doocs is looking forward to your joining.
 
 ## Contributors
 
-This organization exists thanks to all the people who contribute. 
+This organization exists thanks to all the people who contribute.
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 

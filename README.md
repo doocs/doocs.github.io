@@ -1,7 +1,7 @@
 # Introduction
 
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/master/LICENSE)
+[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 
@@ -68,13 +68,13 @@ This organization exists thanks to all the people who contribute.
     <tr>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/doocs">
-          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
           <sub>Subscription</sub>
         </a><br>
       </td>
       <td align="center" style="width: 160px;">
         <a href="https://github.com/yanglbme">
-          <img src="https://gitee.com/Doocs/doocs/raw/master/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+          <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
           <sub>Wechat</sub>
         </a><br>
       </td>

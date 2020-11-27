@@ -11,9 +11,9 @@
 
 ## 站点
 
-- Netlify: https://doocs.netlify.com/#/README_CN
-- Gitee Pages: https://doocs.github.io/#/README_CN
-- GitHub Pages: https://doocs.github.io/#/README_CN
+- Netlify: https://doocs.netlify.app
+- Gitee Pages: https://doocs.gitee.io
+- GitHub Pages: https://doocs.github.io
 
 ## 发起人
 

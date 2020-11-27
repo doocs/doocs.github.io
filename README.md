@@ -27,8 +27,9 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 Doocs now has the following hot projects:
 
-| #   | Project                                                           | Description                                                                                                                                                          | Popularity                                                                                                                      |
-| --- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+
+| # | Project | Description | Popularity |
+| --- | --- | --- | --- |
 | 1   | [advanced-java](https://github.com/doocs/advanced-java)           | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc.             | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java)           |
 | 2   | [leetcode](https://github.com/doocs/leetcode)                     | LeetCode solutions in any programming language.                                                                                                                      | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode)                     |
 | 3   | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components.                                                                                                                   | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
@@ -65,18 +66,18 @@ This organization exists thanks to all the people who contribute.
 ## Contact
 
 <table>
-    <tr>
-      <td align="center" style="width: 160px;">
-        <a href="https://github.com/doocs">
-          <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
-          <sub>Subscription</sub>
-        </a><br>
-      </td>
-      <td align="center" style="width: 160px;">
-        <a href="https://github.com/yanglbme">
-          <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
-          <sub>Wechat</sub>
-        </a><br>
-      </td>
-    </tr>
+  <tr>
+    <td align="center" style="width: 160px;">
+      <a href="https://github.com/doocs">
+        <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+        <sub>Subscription</sub>
+      </a><br>
+    </td>
+    <td align="center" style="width: 160px;">
+      <a href="https://github.com/yanglbme">
+        <img src="https://gitee.com/Doocs/doocs/raw/main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+        <sub>Wechat</sub>
+      </a><br>
+    </td>
+  </tr>
 </table>

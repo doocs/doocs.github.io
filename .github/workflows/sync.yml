@@ -13,8 +13,8 @@ jobs:
       env:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
       with:
-          source-repo: "git@github.com:doocs/doocs.github.io.git"
-          destination-repo: "git@gitee.com:Doocs/doocs.git"
+          source-repo: git@github.com:doocs/doocs.github.io.git
+          destination-repo: git@gitee.com:Doocs/doocs.git
 
     - name: Build Gitee Pages
       uses: yanglbme/gitee-pages-action@master

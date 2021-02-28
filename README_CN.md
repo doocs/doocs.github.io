@@ -1,9 +1,10 @@
 # 介绍
 
-[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
+[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs/doocs.github.io)
+[![gitee](https://badgen.net/badge/>>/Gitee/cyan)](https://gitee.com/doocs/doocs)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#如何加入)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
+[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
 
 你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。
 
@@ -17,11 +18,12 @@
 
 ## 发起人
 
-[杨立滨](https://github.com/yanglbme)，专注于互联网后端开发。
+[杨立滨](https://github.com/yanglbme)，专注于互联网后端领域。
 
 - 微信： YLB0109
 - 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
-- 同性交友账号: https://github.com/yanglbme
+- Gitee：https://gitee.com/yanglbme
+- GitHub: https://github.com/yanglbme
 
 ## 项目
 
@@ -45,7 +47,7 @@
 
 如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
 
-- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上交流。
+- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上评论，告知我们你想加入 Doocs。
 - 发送邮件到 [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
 默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。

@@ -1,9 +1,10 @@
 # Introduction
 
-[![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
-[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
+[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs/doocs.github.io)
+[![gitee](https://badgen.net/badge/>>/Gitee/cyan)](https://gitee.com/doocs/doocs)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
+[![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
 
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
 
@@ -17,10 +18,11 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 ## Owner
 
-[Yang Libin](https://github.com/yanglbme), a backend developer.
+[Yang Libin](https://github.com/yanglbme), focus on the inner workings of web applications to build out the "server-side" of web applications.
 
 - Wechat: YLB0109
 - Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
+- Gitee: https://gitee.com/yanglbme
 - GitHub: https://github.com/yanglbme
 
 ## Projects
@@ -30,7 +32,7 @@ Doocs now has the following hot projects:
 
 | # | Project | Description | Popularity |
 | --- | --- | --- | --- |
-| 1   | [advanced-java](https://github.com/doocs/advanced-java)           | The advanced knowledge of Java developer, covering high concurrency, distributed systems, high availability, microservice, massive data processing, etc.             | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java)           |
+| 1   | [advanced-java](https://github.com/doocs/advanced-java)           |  Core interview questions & answers for experienced Java(Backend) evelopers.             | ![](https://badgen.net/github/stars/doocs/advanced-java) <br>![](https://badgen.net/github/forks/doocs/advanced-java)           |
 | 2   | [leetcode](https://github.com/doocs/leetcode)                     | LeetCode solutions in any programming language.                                                                                                                      | ![](https://badgen.net/github/stars/doocs/leetcode) <br>![](https://badgen.net/github/forks/doocs/leetcode)                     |
 | 3   | [source-code-hunter](https://github.com/doocs/source-code-hunter) | Source code analysis of frameworks and components.                                                                                                                   | ![](https://badgen.net/github/stars/doocs/source-code-hunter) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) | ![](https://badgen.net/github/stars/doocs/coding-interview) <br>![](https://badgen.net/github/forks/doocs/source-code-hunter) |
 | 4   | [jvm](https://github.com/doocs/jvm)                               | A summary of the underlying principles of Java Virtual Machine.                                                                                                      | ![](https://badgen.net/github/stars/doocs/jvm) <br>![](https://badgen.net/github/forks/doocs/jvm)                               |
@@ -44,7 +46,7 @@ Doocs now has the following hot projects:
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-- Communicate directly on the [issues](https://github.com/doocs/doocs.github.io/issues/1) of this project.
+- Comment on [#1](https://github.com/doocs/doocs.github.io/issues/1) and tell us you want to join.
 - Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.

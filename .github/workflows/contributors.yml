@@ -17,5 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           repo: doocs/leetcode
           svgPath: images/contributors-doocs-leetcode.svg
+          svgWidth: 890
           round: true
           includeBots: true

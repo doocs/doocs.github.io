@@ -6,7 +6,7 @@
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
 
-Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source organization. The name is originated from ‘Docs’, which mainly shares various development-related knowledge in the form of documents.
+Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source community. We are currently focusing on sharing various development-related knowledge.
 
 See the [中文文档](README_CN.md) for Chinese README.
 

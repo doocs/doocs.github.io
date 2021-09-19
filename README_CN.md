@@ -6,9 +6,7 @@
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
 
-你好，欢迎来到 [Doocs](https://github.com/doocs) 开源组织。Doocs 名字取自 Docs，主要是以文档的形式分享各种开发相关知识。
-
-英文文档请看 [README](README.md)。
+你好呀，欢迎来到 [Doocs](https://github.com/doocs) 开源社区。我们是一个非常友好的技术社区，目前专注于分享技术领域相关知识。
 
 ## 站点
 
@@ -27,7 +25,7 @@
 
 ## 项目
 
-目前 Doocs 有以下多个热门项目：
+目前 Doocs 有以下多个热门项目，欢迎 Star ⭐ 关注~
 
 | # | 项目 | 描述 | 热度 |
 | --- | --- | --- | --- |

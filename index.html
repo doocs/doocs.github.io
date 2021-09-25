@@ -50,16 +50,26 @@
         }
       },
       plugins: [
-        function (hook) {
-          var footer = [
-            "<hr/>",
-            "<footer>",
-            '<span>Copyright © 2018-2021 <a href="https://github.com/doocs" target="_blank">Doocs</a>. All rights reserved.',
-            "</footer>",
-          ].join("");
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            const cn = vm.route.file.indexOf('README_CN') != -1
+            const userContent = /githubusercontent\.com/.test(vm.route.file)
+            const url = userContent ? vm.route.file
+              .replace('raw.githubusercontent.com', 'github.com')
+              .replace(/\/main/, '/blob/main') : 'https://github.com/doocs/doocs.github.io/blob/main/' + vm.route.file
+
+            const github = `[GitHub](${url})`
+            const gitee = `[Gitee](${url.replace("github", "gitee").replace("doocs.github.io", "doocs")})`
+            const editHtml = !cn ? `:memo: Edit on ${github} / ${gitee}\n` : `:memo: 在 ${github} / ${gitee} 编辑\n`
+            return editHtml + html
+          })
 
           hook.afterEach(function (html) {
-            return html + footer;
+            const cn = vm.route.file.indexOf('README_CN') != -1
+            const copyright = cn ? ' 版权所有' : '. All Rights Reserved'
+            const currentYear = new Date().getFullYear()
+            const footer = `<footer><span>Copyright © 2018-${currentYear} <a href="https://github.com/doocs" target="_blank">Doocs</a>${copyright}</footer>`
+            return html + footer
           });
         },
       ],

@@ -54,13 +54,13 @@
 
 你可以 fork 任何一个感兴趣的项目到你的个人 GitHub 帐户下，对项目作出修改后，提交你的 PR。Doocs 维护者会对你的提交内容进行 review。或许你最初的提交并不规范，这也没关系，改进之后，慢慢的，整个规范性就有了。当你的提交一直很符合项目的规范性，Doocs 维护者会将你添加到对应项目的 Collaborators 列表中，共同维护好项目。
 
-如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.chs.md)。
+如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.chs.md)。
 
 Doocs 期待你的加入。
 
 ## 贡献者列表
 
-感谢以下所有为此开源组织贡献的开发者朋友们。
+感谢以下所有为此开源组织做出贡献的开发者朋友们。
 
 <a href="https://opencollective.com/doocs/contributors.svg?width=890&button=false"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
 

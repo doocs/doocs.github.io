@@ -10,7 +10,6 @@
 
 ## 站点
 
-- Netlify: https://doocs.netlify.app
 - Gitee Pages: https://doocs.gitee.io
 - GitHub Pages: https://doocs.github.io
 

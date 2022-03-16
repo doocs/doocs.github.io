@@ -12,7 +12,6 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 ## Sites
 
-- Netlify: https://doocs.netlify.app
 - Gitee Pages: https://doocs.gitee.io
 - GitHub Pages: https://doocs.github.io
 

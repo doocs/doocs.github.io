@@ -70,13 +70,13 @@ This organization exists thanks to all the people who contribute.
   <tr>
     <td align="center" style="width: 160px;">
       <a href="https://github.com/doocs">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+        <img src="https://fastly.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
         <sub>Subscription</sub>
       </a><br>
     </td>
     <td align="center" style="width: 160px;">
       <a href="https://github.com/yanglbme">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+        <img src="https://fastly.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
         <sub>Wechat</sub>
       </a><br>
     </td>

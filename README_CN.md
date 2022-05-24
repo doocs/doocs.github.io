@@ -71,13 +71,13 @@ GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**
   <tr>
     <td align="center" style="width: 160px;">
       <a href="https://github.com/doocs">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
+        <img src="https://fastly.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-doocs.jpg" style="width: 500px;"><br>
         <sub>公众平台</sub>
       </a><br>
     </td>
     <td align="center" style="width: 160px;">
       <a href="https://github.com/yanglbme">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
+        <img src="https://fastly.jsdelivr.net/gh/doocs/doocs.github.io@main/images/qrcode-for-yanglbme.jpg" style="width: 500px;"><br>
         <sub>个人微信</sub>
       </a><br>
     </td>

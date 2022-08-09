@@ -12,7 +12,7 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 ## Sites
 
-- Gitee Pages: https://doocs.gitee.io
+- Vercel: https://doocs.vercel.app
 - GitHub Pages: https://doocs.github.io
 
 ## Owner

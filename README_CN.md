@@ -10,7 +10,7 @@
 
 ## 站点
 
-- Gitee Pages: https://doocs.gitee.io
+- Vercel: https://doocs.vercel.app
 - GitHub Pages: https://doocs.github.io
 
 ## 发起人

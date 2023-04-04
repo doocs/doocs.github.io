@@ -45,16 +45,18 @@ Doocs now has the following hot projects:
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-- Comment on [#1](https://github.com/doocs/doocs.github.io/issues/1) and tell us you want to join.
-- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) and attach your GitHub ID, such as [yanglbme](https://github.com/yanglbme).
+- Comment on the [relevant issue](https://github.com/doocs/doocs.github.io/issues) on GitHub to express interest in joining the community.
+- Send an email to [contact@yanglibin.info](mailto:contact@yanglibin.info?Subject=Join%20the%20Doocs%20Open%20Source%20organization) with the GitHub ID to request to join the community.
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 
-**Note**: At the beginning, you will not have direct 'write' permission for the project at this time, because we are not sure that your submission meets the project specifications.
+Once a member of the community, the member can fork any project of interest and make modifications, and then submit a pull request for review. If the submission is deemed to be in compliance with the project's standards, the member may be added as a collaborator to the project.
 
-However, you can fork any of the items of your interest to your personal GitHub account and make changes to the project. You can submit your PR once you have modified the code or document, and then the Doocs maintainer will review your submission. It's normal that your initial submission is not standardized, however, it would be improved after practice. When your submissions consistently meet the project standards, the Doocs maintainer will add you to the Collaborators list of corresponding projects to maintain them together with us.
+It is worth noting that initially, new members may not have direct write access to the projects, as the maintainers need to assess the quality of the submissions. Therefore, it is recommended that new members make submissions regularly to become familiar with the GitHub workflow and to improve their submissions over time.
 
 You can refer to this [article](https://github.com/firstcontributions/first-contributions/blob/master/README.md) if you are a new open-source contributor.
+
+Overall, the Doocs community seems to be a valuable resource for programmers interested in learning about internet backend development and open-source development. The community offers various resources and projects that can help programmers improve their skills and contribute to the open-source community.
 
 Doocs is looking forward to your joining.
 

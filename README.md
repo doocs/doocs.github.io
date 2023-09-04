@@ -64,7 +64,7 @@ Doocs is looking forward to your joining.
 
 This organization exists thanks to all the people who contribute.
 
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
+<a href="https://doocs.github.io/.github" target="_blank"><img src="https://raw.githubusercontent.com/doocs/.github/main/images/contributors.png" /></a>
 
 ## Contact
 

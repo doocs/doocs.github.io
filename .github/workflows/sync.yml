@@ -16,10 +16,10 @@ jobs:
           source-repo: git@github.com:doocs/doocs.github.io.git
           destination-repo: git@gitee.com:Doocs/doocs.git
 
-      # - name: Build Gitee Pages
-      #   uses: yanglbme/gitee-pages-action@main
-      #   with:
-      #     gitee-username: yanglbme
-      #     gitee-password: ${{ secrets.GITEE_PASSWORD }}
-      #     gitee-repo: doocs/doocs
-      #     branch: main
+      - name: Build Gitee Pages
+        uses: yanglbme/gitee-pages-action@main
+        with:
+          gitee-username: yanglbme
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: doocs/doocs
+          branch: main

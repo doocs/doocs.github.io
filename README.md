@@ -23,7 +23,7 @@ See the [中文文档](README_CN.md) for Chinese README.
 - Wechat: YLB0109
 - Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
 - GitHub: https://github.com/yanglbme
-- GitCode: https://gitcode.com/ylb
+- GitCode: https://gitcode.com/yanglbme
 - Gitee: https://gitee.com/yanglbme
 
 

@@ -1,6 +1,7 @@
 # 介绍
 
-[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs/doocs.github.io)
+[![gitcode](https://badgen.net/badge/>>/GitCode/cyan)](https://gitcode.com/doocs/doocs)
+[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs/doocs)
 [![gitee](https://badgen.net/badge/>>/Gitee/cyan)](https://gitee.com/doocs/doocs)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#如何加入)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
@@ -19,9 +20,9 @@
 
 - 微信： YLB0109
 - 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
+- GitCode: https://gitcode.com/ylb
 - Gitee：https://gitee.com/yanglbme
 - GitHub: https://github.com/yanglbme
-- GitCode: https://gitcode.com/ylb
 
 ## 项目
 

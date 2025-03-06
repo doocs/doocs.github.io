@@ -1,7 +1,8 @@
 # Introduction
 
-[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs/doocs.github.io)
-[![gitee](https://badgen.net/badge/>>/Gitee/cyan)](https://gitee.com/doocs/doocs)
+[![github](https://badgen.net/badge/>>/GitHub/cyan)](https://github.com/doocs)
+[![gitcode](https://badgen.net/badge/>>/GitCode/cyan)](https://gitcode.com/doocs)
+[![gitee](https://badgen.net/badge/>>/Gitee/cyan)](https://gitee.com/doocs)
 [![doocs-open-source-organization](https://badgen.net/badge/organization/join%20us/cyan)](#how-to-join)
 [![gitter](https://badgen.net/badge/gitter/chat/cyan)](https://gitter.im/doocs)
 [![license](https://badgen.net/github/license/doocs/doocs.github.io?color=green)](https://github.com/doocs/doocs.github.io/blob/main/LICENSE)
@@ -21,9 +22,10 @@ See the [中文文档](README_CN.md) for Chinese README.
 
 - Wechat: YLB0109
 - Email: [contact@yanglibin.info](mailto:contact@yanglibin.info)
-- Gitee: https://gitee.com/yanglbme
 - GitHub: https://github.com/yanglbme
 - GitCode: https://gitcode.com/ylb
+- Gitee: https://gitee.com/yanglbme
+
 
 ## Projects
 

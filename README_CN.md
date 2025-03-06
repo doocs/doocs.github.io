@@ -20,7 +20,7 @@
 
 - 微信： YLB0109
 - 邮箱：[contact@yanglibin.info](mailto:contact@yanglibin.info)
-- GitCode: https://gitcode.com/ylb
+- GitCode: https://gitcode.com/yanglbme
 - Gitee：https://gitee.com/yanglbme
 - GitHub: https://github.com/yanglbme
 

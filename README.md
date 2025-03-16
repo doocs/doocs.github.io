@@ -14,7 +14,7 @@ See the [中文文档](README_CN.md) for Chinese README.
 ## Sites
 
 - Vercel: https://doocs.vercel.app
-- GitHub Pages: https://doocs.github.io
+- GitHub Pages: https://doocs.org
 
 ## Owner
 

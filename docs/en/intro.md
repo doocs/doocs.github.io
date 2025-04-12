@@ -9,8 +9,6 @@
 
 Hello, everyone! Welcome to the [Doocs](https://github.com/doocs) Open Source community. We are currently focusing on sharing various development-related knowledge.
 
-See the [中文文档](README_CN.md) for Chinese README.
-
 ## Sites
 
 https://doocs.org
@@ -70,13 +68,5 @@ This organization exists thanks to all the people who contribute.
 
 ## Contact
 
-<table>
-  <tr>
-    <td align="center" style="width: 260px;">
-      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs-en.png" style="width: 400px;"><br>
-    </td>
-    <td align="center" style="width: 260px;">
-      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme-en.png" style="width: 400px;"><br>
-    </td>
-  </tr>
-</table>
+| ![QRCode1](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs.png) | ![QRCode2](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme.png) |
+|:---------------------------------------------:|:---------------------------------------------:|

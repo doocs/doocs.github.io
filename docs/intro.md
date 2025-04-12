@@ -68,13 +68,6 @@ Doocs 期待你的加入。
 
 GitHub 技术社区 [Doocs](https://github.com/doocs) 旗下唯一公众号「**Doocs**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
-<table>
-  <tr>
-    <td align="center" style="width: 260px;">
-      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs.png" style="width: 400px;"><br>
-    </td>
-    <td align="center" style="width: 260px;">
-      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme.png" style="width: 400px;"><br>
-    </td>
-  </tr>
-</table>
+| ![QRCode1](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs.png) | ![QRCode2](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+

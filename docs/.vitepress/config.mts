@@ -7,7 +7,7 @@ export default defineConfig({
   locales: {
     root: {
       label: '简体中文',
-      lang: 'zh',
+      lang: 'zh-Hans',
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -17,16 +17,25 @@ export default defineConfig({
         logo: '/favicon-32x32.png',
         footer: {
           message: 'Released under the CC-BY-SA-4.0 license.',
-          copyright: 'Copyright © 2018-present Doocs'
+          copyright: `版权所有 © 2018-${new Date().getFullYear()} Doocs`
+        },
+        outline: {
+          label: '页面导航'
         },
         socialLinks: [
           { icon: 'github', link: 'https://github.com/doocs' }
-        ]
+        ],
+        langMenuLabel: '多语言',
+        returnToTopLabel: '回到顶部',
+        sidebarMenuLabel: '菜单',
+        darkModeSwitchLabel: '主题',
+        lightModeSwitchTitle: '切换到浅色模式',
+        darkModeSwitchTitle: '切换到深色模式'
       }
     },
     en: {
       label: 'English',
-      lang: 'en',
+      lang: 'en-US',
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -36,7 +45,7 @@ export default defineConfig({
         logo: '/favicon-32x32.png',
         footer: {
           message: 'Released under the CC-BY-SA-4.0 license.',
-          copyright: 'Copyright © 2018-present Doocs'
+          copyright: `Copyright © 2018-${new Date().getFullYear()} Doocs`
         },
         socialLinks: [
           { icon: 'github', link: 'https://github.com/doocs' }

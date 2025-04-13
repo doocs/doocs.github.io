@@ -47,7 +47,7 @@ Doocs now has the following hot projects:
 
 I believe many of you have a deep understanding that participating in open source projects is very helpful for personal growth. If you love open source or you are curious about it, join Doocs, work with us, maintain our projects and grow together. You can join us in the following two ways:
 
-- Comment on the [relevant issue](https://github.com/doocs/doocs.github.io/issues) on GitHub to express interest in joining the community.
+- Comment on the [relevant discusstion](https://github.com/orgs/doocs/discussions/241) on GitHub to express interest in joining the community.
 - Send an email to [admin@doocs.org](mailto:admin@doocs.org?Subject=Join%20the%20Doocs%20Open%20Source%20organization) with the GitHub ID to request to join the community.
 
 By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.

@@ -45,7 +45,7 @@ https://doocs.org
 
 如果你热爱开源，或者抱着一颗好奇的心，不妨加入 [Doocs](https://github.com/doocs) 组织，和我们一起维护项目，共同成长。可以通过以下两种方式加入：
 
-- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [issue](https://github.com/doocs/doocs.github.io/issues/1) 上评论，告知我们你想加入 Doocs。
+- 直接在[此项目](https://github.com/doocs/doocs.github.io)的 [discussion](https://github.com/orgs/doocs/discussions/241) 上评论，告知我们你想加入 Doocs。
 - 发送邮件到 [admin@doocs.org](mailto:admin@doocs.org?Subject=加入Doocs开源组织)，写明你的 GitHub ID，如 [yanglbme](https://github.com/yanglbme)。
 
 默认情况下，在你加入我们之后，你作为 GitHub Doocs 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 `private` “**私有**”改为 `public` “**公开**”。当然，我们推荐设置为**公开**。

@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,ai as a}from"./chunks/framework.TS84ywiI.js";const b=JSON.parse('{"title":"Introduction","description":"","frontmatter":{},"headers":[],"relativePath":"en/intro.md","filePath":"en/intro.md"}'),n={name:"en/intro.md"};function i(s,t,c,d,h,l){return r(),o("div",null,t[0]||(t[0]=[a("",26)]))}const u=e(n,[["render",i]]);export{b as __pageData,u as default};

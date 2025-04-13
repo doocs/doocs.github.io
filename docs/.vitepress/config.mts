@@ -17,7 +17,7 @@ export default defineConfig({
         logo: '/favicon-32x32.png',
         footer: {
           message: 'Released under the CC-BY-SA-4.0 license.',
-          copyright: `版权所有 © 2018-${new Date().getFullYear()} Doocs`
+          copyright: `版权所有 © 2018-${new Date().getFullYear()} <a href="https://github.com/doocs">Doocs</a>`
         },
         outline: {
           label: '页面导航'
@@ -45,7 +45,7 @@ export default defineConfig({
         logo: '/favicon-32x32.png',
         footer: {
           message: 'Released under the CC-BY-SA-4.0 license.',
-          copyright: `Copyright © 2018-${new Date().getFullYear()} Doocs`
+          copyright: `Copyright © 2018-${new Date().getFullYear()} <a href="https://github.com/doocs">Doocs</a>`
         },
         socialLinks: [
           { icon: 'github', link: 'https://github.com/doocs' }

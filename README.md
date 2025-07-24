@@ -50,7 +50,7 @@ I believe many of you have a deep understanding that participating in open sourc
 - Comment on the [relevant discussion](https://github.com/orgs/doocs/discussions/241) on GitHub to express interest in joining the community.
 - Send an email to [admin@doocs.org](mailto:admin@doocs.org?Subject=Join%20the%20Doocs%20Open%20Source%20organization) with the GitHub ID to request to join the community.
 
-By default, your Doocs membership will be hidden from view aftering joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
+By default, your Doocs membership will be hidden from view after joining us. If you'd like to display the organization icon in your profile, you can switch from "Private" to "Public" here: https://github.com/orgs/doocs/people. We also recommend setting it to Public.
 
 Once a member of the community, the member can fork any project of interest and make modifications, and then submit a pull request for review. If the submission is deemed to be in compliance with the project's standards, the member may be added as a collaborator to the project.
 

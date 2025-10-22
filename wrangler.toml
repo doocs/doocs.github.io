@@ -1,0 +1,7 @@
+name = "doocs"
+main = "src/index.js"
+compatibility_date = "2025-10-22"
+
+[assets]
+directory = "docs/.vitepress/dist"
+binding = "ASSETS"

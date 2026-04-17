@@ -1,8 +1,8 @@
 {
   "packageManager": "pnpm@9.0.0",
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12",
-    "wrangler": "^4.44.0"
+    "vitepress": "^2.0.0-alpha.17",
+    "wrangler": "^4.83.0"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",

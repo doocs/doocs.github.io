@@ -1,5 +1,6 @@
 overrides:
   esbuild: '>=0.28.1'
+  vite: '>=7.3.5 <8.0.0'
 
 # Cloudflare publishes workers-types daily; exclude from the 24h release-age gate.
 minimumReleaseAgeExclude:

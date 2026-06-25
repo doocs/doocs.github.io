@@ -1,2 +1,6 @@
 overrides:
   esbuild: '>=0.28.1'
+
+# Cloudflare publishes workers-types daily; exclude from the 24h release-age gate.
+minimumReleaseAgeExclude:
+  - '@cloudflare/workers-types'

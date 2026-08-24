@@ -1,7 +1,7 @@
 {
   "packageManager": "pnpm@11.9.0",
   "engines": {
-    "node": "^20.19.0 || >=22.12.0"
+    "node": ">=22.12.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260823.1",

@@ -1,14 +1,14 @@
 overrides:
   esbuild: 0.28.2
   nanoid: 3.3.19
-  postcss: 8.5.28
-  vite: 8.3.0
+  postcss: 8.5.30
+  vite: 8.3.4
 
 # Cloudflare publishes workers-types daily; exclude from the 24h release-age gate.
 minimumReleaseAgeExclude:
   - '@cloudflare/workers-types'
-  - miniflare@5.20260917.0-alpha
-  - wrangler@4.134.0
+  - miniflare@5.20260917.0-alpha || 5.20261012.1-beta
+  - wrangler@4.151.1
 
 allowBuilds:
   esbuild: true
